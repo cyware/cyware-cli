@@ -1,6 +1,6 @@
 {
   "name": "cyware-cli",
-  "version": "1.3.9",
+  "version": "0.1.0",
   "description": "Manage your CYWare installation",
   "main": "cyware-cli.js",
   "bin": {
